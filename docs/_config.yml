@@ -1,2 +1,6 @@
 theme: jekyll-theme-slate
 title: Brett's Portfolio
+
+layout: page
+title: projects
+permalink: /projects/
