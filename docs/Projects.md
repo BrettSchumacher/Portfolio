@@ -2,6 +2,7 @@
 - [About Me](/Portfolio/)
 - **My Projects**
 - [My Resume](/Portfolio/Resume.pdf)
+- [My Itch.io](https://theshoes.itch.io/)
 
 # My Projects and Research
 ## Sim-Stem - A Physics Simulation puzzle game
