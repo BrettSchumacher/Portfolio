@@ -7,4 +7,4 @@
 
 Yo yo yo, my name is Brett. I'm pretty pog. I think i could help ur company. Plz give me job.
 
-![](https://github.com/BrettSchumacher/Portfolio/blob/085cb1bea2d545e5347469f3acc23668cf274b7d/docs/ProfilePic.png)
+![](https://github.com/BrettSchumacher/Portfolio/blob/ce819b61c022128a24f25a3a08b4c73ff4ddb13f/raw/master/src/common/images/ProfilePic.png)
