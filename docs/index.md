@@ -11,4 +11,6 @@ My name is Brett Schumacher. I'm a 20 year-old Comp Sci Major/Astrophysics Minor
 
 #### Interests
 
-I enjoy implementing physics simulations as well as learning about computer graphics. Particualarly in the context of video game development. I also like to design and implement game systems in my free time (currently with the UMN Video Game Development Club).
+I enjoy implementing physics simulations as well as learning about computer graphics, particualarly in the context of video game development. 
+
+I also like to design and implement game systems in my free time (currently with the UMN Video Game Development Club).
