@@ -9,7 +9,7 @@
 
 ![](https://user-images.githubusercontent.com/66701198/138023015-c766241e-d8bd-485d-97ae-303f2f4cbbd2.png)
 
-Developed over a weekend for the GMTK 2021 Game Jam. The game features a real time physics simulation to mimic orbital mechanics. The player must properly set planet's starting positions and velocities to reach certain goals and avoid certain obstacles. All simulation and gameplay code was written by me, with help from friends on the UI code, level design, and music for the game.
+Developed over a weekend for the GMTK 2021 Game Jam. The game features a real time physics simulation to mimic orbital mechanics. The player must properly set planet's starting positions and velocities to reach certain goals and avoid certain obstacles. All simulation and gameplay code was written by me, with help from friends on the UI code, level design, and music.
 
 ## FIVE - Flexible Immersive Virtual Environments
 *Made June 2021 - Sept 2021, URL:* <https://conservancy.umn.edu/handle/11299/223271>
