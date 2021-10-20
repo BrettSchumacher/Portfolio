@@ -3,6 +3,7 @@
 - [My Projects](/Portfolio/Projects/)
 - [My Resume](/Portfolio/Resume.pdf)
 - [My Itch.io](https://theshoes.itch.io/)
+- [My GitHub](https://github.com/BrettSchumacher)
 
 # About Me
 
