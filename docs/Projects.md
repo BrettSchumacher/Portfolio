@@ -17,7 +17,7 @@ Developed over a weekend for the GMTK 2021 Game Jam. The game features a real ti
 Developed in Unity as a part of a UROP (Undergraduate Research Opportunity Program) at the University of Minnesota under the guidance of Professor Evan Suma Rosenberg and with fellow CSCI undergrad Malik Khadar.  Created in Unity, FIVE is a Virtual Reality framework that allows developers to build their scenes so that they will automatically scale to a VR user's physical space.
 
 ## COVID-Vision
-*Made Nov 2020 - March 2021m URL:* <https://ieeexplore.ieee.org/document/9419275>
+*Made Nov 2020 - March 2021, URL:* <https://ieeexplore.ieee.org/document/9419275>
 
 An accepted submission to IEEE VR 2021 3DUI Contest. I worked in a group as a part of Professor Evan Suma Rosenberg's Illusioneering Lab to develop an application to increase social distancing awareness. The application took place in a grocery store where the user was given a task to collect all the groceries on the list while avoiding other players as well as NPC shoppers.  I was in charge of creating the virtual environment, programming the logic of the agents the user had to maintain distance from, and programming the collection of items to make sure they were added/removed from the list as the player collected/discarded them.
 
