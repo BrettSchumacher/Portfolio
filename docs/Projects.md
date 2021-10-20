@@ -5,11 +5,21 @@
 
 # My Projects and Research
 ## Sim-Stem - A Physics Simulation puzzle game
-### Made in June 2021, URL: <https://theshoes.itch.io/sim-stem>
+*Made in June 2021, URL:* <https://theshoes.itch.io/sim-stem>
 
 Developed over a weekend for the GMTK 2021 Game Jam. The game features a real time physics simulation to mimic orbital mechanics. The player must properly set planet's starting positions and velocities to reach certain goals and avoid certain obstacles. All simulation and gameplay code was written by me, with help from friends on the UI code, level design, and music for the game.
 
 ## FIVE - Flexible Immersive Virtual Environments
-### Made June 2021 - Sept 2021, URL: <https://conservancy.umn.edu/handle/11299/223271>
+*Made June 2021 - Sept 2021, URL:* <https://conservancy.umn.edu/handle/11299/223271>
 
 Developed in Unity as a part of a UROP (Undergraduate Research Opportunity Program) at the University of Minnesota under the guidance of Professor Evan Suma Rosenberg and with fellow CSCI undergrad Malik Khadar.  Created in Unity, FIVE is a Virtual Reality framework that allows developers to build their scenes so that they will automatically scale to a VR user's physical space.
+
+## COVID-Vision
+*Made Nov 2020 - March 2021m URL:* <https://ieeexplore.ieee.org/document/9419275>
+
+An accepted submission to IEEE VR 2021 3DUI Contest. I worked in a group as a part of Professor Evan Suma Rosenberg's Illusioneering Lab to develop an application to increase social distancing awareness. The application took place in a grocery store where the user was given a task to collect all the groceries on the list while avoiding other players as well as NPC shoppers.  I was in charge of creating the virtual environment, programming the logic of the agents the user had to maintain distance from, and programming the collection of items to make sure they were added/removed from the list as the player collected/discarded them.
+
+## Path Finding Simulation
+*Made Sept 2021, URL:* <https://sites.google.com/view/csci-5611-project-1-schum830/home>
+
+Project 1 for CSCI 5611 Animation and Planning in Game. Coded in C/C++ using OpenGL with GLAD and GLFW. The simulation uses A* path finding with a visibility graph to navigate a variable number of agents through a randomized environment.
