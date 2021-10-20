@@ -7,7 +7,7 @@
 ## Sim-Stem - A Physics Simulation puzzle game
 *Made in June 2021, URL:* <https://theshoes.itch.io/sim-stem>
 
-![](https://github.com/BrettSchumacher/Portfolio/blob/d1ec0ce585dd1f4155f8989659b03abc129dc152/docs/SimStem.png)
+![](https://user-images.githubusercontent.com/66701198/138023015-c766241e-d8bd-485d-97ae-303f2f4cbbd2.png)
 
 Developed over a weekend for the GMTK 2021 Game Jam. The game features a real time physics simulation to mimic orbital mechanics. The player must properly set planet's starting positions and velocities to reach certain goals and avoid certain obstacles. All simulation and gameplay code was written by me, with help from friends on the UI code, level design, and music for the game.
 
@@ -24,6 +24,6 @@ An accepted submission to IEEE VR 2021 3DUI Contest. I worked in a group as a pa
 ## Path Finding Simulation
 *Made Sept 2021, URL:* <https://sites.google.com/view/csci-5611-project-1-schum830/home>
 
-![](https://github.com/BrettSchumacher/Portfolio/blob/d1ec0ce585dd1f4155f8989659b03abc129dc152/docs/PathFinding.png)
+![](https://user-images.githubusercontent.com/66701198/138023053-71efc9d2-3d0c-42ab-aaa4-25a20c8d23b0.png)
 
 Project 1 for CSCI 5611 Animation and Planning in Game. Coded in C/C++ using OpenGL with GLAD and GLFW. The simulation uses A* path finding with a visibility graph to navigate a variable number of agents through a randomized environment.
