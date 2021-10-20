@@ -1,5 +1,5 @@
 ## Pages:
-- [About Me](/Portfolio/)
+- About Me
 - [My Projects](/Portfolio/Projects/)
 - [My Resume](/Portfolio/Resume.pdf)
 
