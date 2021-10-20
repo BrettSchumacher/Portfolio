@@ -2,6 +2,7 @@
 - **About Me**
 - [My Projects](/Portfolio/Projects/)
 - [My Resume](/Portfolio/Resume.pdf)
+- [My Itch.io](https://theshoes.itch.io/)
 
 # About Me
 
