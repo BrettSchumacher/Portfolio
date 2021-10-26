@@ -23,9 +23,11 @@ Developed in Unity as a part of a UROP (Undergraduate Research Opportunity Progr
 
 An accepted submission to IEEE VR 2021 3DUI Contest. I worked in a group as a part of Professor Evan Suma Rosenberg's Illusioneering Lab to develop an application to increase social distancing awareness. The application took place in a grocery store where the user was given a task to collect all the groceries on the list while avoiding other players as well as NPC shoppers.  I was in charge of creating the virtual environment, programming the logic of the agents the user had to maintain distance from, and programming the collection of items to make sure they were added/removed from the list as the player collected/discarded them.
 
-## Path Finding Simulation
-*Made Sept 2021, URL:* <https://sites.google.com/view/csci-5611-project-1-schum830/home>
+## Class Projects
+*Made Sept 2021, URLs:* 
+- Path Finding: <https://sites.google.com/view/csci-5611-project-1-schum830/home>
+- Cloth/Water Sim: <https://sites.google.com/umn.edu/csci-5611-project-2-schum830/home>
 
 ![](https://user-images.githubusercontent.com/66701198/138023053-71efc9d2-3d0c-42ab-aaa4-25a20c8d23b0.png)
 
-Project 1 for CSCI 5611 Animation and Planning in Game. Coded in C/C++ using OpenGL with GLAD and GLFW. The simulation uses A* path finding with a visibility graph to navigate a variable number of agents through a randomized environment.
+My projects for CSCI 5611 Animation and Planning in Game. Project 1 was coded in C/C++ using OpenGL with GLAD and GLFW. The simulation uses A* path finding with a visibility graph to navigate a variable number of agents through a randomized environment. Project 2 was made in Unity, utilizing Compute Shaders for cloth and water simulations.
