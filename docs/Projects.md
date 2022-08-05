@@ -7,7 +7,7 @@
 
 # My Projects and Research
 ## Platforming Under Pressure
-*Made in April 2021 - May 2021, URL:* <https://theshoes.itch.io/platforming-under-pressure>
+*Made in Novemnber 2021 - December 2021, URL:* <https://theshoes.itch.io/platforming-under-pressure>
 
 Created as a final project for CSCI 5611 Animation and Planning in Games. We were not allowed to use Unity's provided particle system or physics engine, so I was in charge of creating the water simulation, and joining it to work with the rigidbody simulation written by another group member. I also worked on the UI elements, such as the level select screen, and other visual elements such as the rendering of the water.
 
