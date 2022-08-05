@@ -9,7 +9,7 @@
 ## Ray Tracing Engine
 *Made January 2022 - April 2022:* <https://github.com/BrettSchumacher/Raytracer>
 
-![](https://github.com/BrettSchumacher/Raytracer/blob/main/oldInputs/demo.png)
+![](https://user-images.githubusercontent.com/66701198/183139274-e7758bbe-e44d-4fca-a3d9-645c71964579.png)
 
 Developed in Spring 2022 for CSCI 5607 Introduction to Computer Graphics I. We built a ray tracer from the ground up in C++, starting with how to output an image and going to reading in obj mesh data and materials as well as adding refractions/reflections. I also added supported for glTF scene file reading, as well as implementing a BVH (bounding volume heirarchy) and multithreading to significantly speed up render times.
 
