@@ -6,6 +6,11 @@
 - [My GitHub](https://github.com/BrettSchumacher)
 
 # My Projects and Research
+## Platforming Under Pressure
+*Made in April 2021 - May 2021, URL:* <https://theshoes.itch.io/platforming-under-pressure>
+
+Created as a final project for CSCI 5611 Animation and Planning in Games. We were not allowed to use Unity's provided particle system or physics engine, so I was in charge of creating the water simulation, and joining it to work with the rigidbody simulation written by another group member. I also worked on the UI elements, such as the level select screen, and other visual elements such as the rendering of the water.
+
 ## Sim-Stem - A Physics Simulation puzzle game
 *Made in June 2021, URL:* <https://theshoes.itch.io/sim-stem>
 
@@ -23,7 +28,7 @@ Developed in Unity as a part of a UROP (Undergraduate Research Opportunity Progr
 
 An accepted submission to IEEE VR 2021 3DUI Contest. I worked in a group as a part of Professor Evan Suma Rosenberg's Illusioneering Lab to develop an application to increase social distancing awareness. The application took place in a grocery store where the user was given a task to collect all the groceries on the list while avoiding other players as well as NPC shoppers.  I was in charge of creating the virtual environment, programming the logic of the agents the user had to maintain distance from, and programming the collection of items to make sure they were added/removed from the list as the player collected/discarded them.
 
-## Class Projects
+## Other Class Projects
 *Made Sept 2021, URLs:* 
 - Path Finding: <https://sites.google.com/view/csci-5611-project-1-schum830/home>
 - Cloth/Water Sim: <https://sites.google.com/umn.edu/csci-5611-project-2-schum830/home>
