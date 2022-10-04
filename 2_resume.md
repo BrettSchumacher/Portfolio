@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 image: assets/images/pic01.jpg
+description: "For a short summary of my top achievements"
 nav-menu: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Project and Experience"
+title: "Projects and Experience"
 layout: landing
 description: "Take a look at the various projects I've been a part of"
 image: assets/images/pic07.jpg
