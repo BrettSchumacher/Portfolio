@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Brett Schumacher's Portfolio'
+landing-title: "Brett Schumacher's Portfolio"
 description: null
-image: null
+image: assets/images/banner.jpg
 author: null
 show_tile: false
 ---
