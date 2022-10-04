@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: "Brett Schumacher's Portfolio"
-description: null
+landing-title: "Hi, I'm Brett"
+description: "A computer scientist interested in computer graphics and game design"
 image: assets/images/banner.jpg
 author: null
 show_tile: false

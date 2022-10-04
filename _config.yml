@@ -1,6 +1,6 @@
 # site settings
-title: Brett Schumacher's Portfolio
-subtitle:
+title: 
+subtitle: Brett Schumacher
 email: bwillshoe@gmail.com
 description:
 baseurl: "/Portfolio" # the subpath of your site, e.g. /blog

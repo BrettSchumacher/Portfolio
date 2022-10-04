@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: "Project and Experience"
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: "Take a look at the various projects I've been a part of"
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
