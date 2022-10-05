@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 layout: allposts
-description: "Take a look at the various projects I've been a part of"
 image: assets/images/projects.jpg
 nav-menu: true
 ---
