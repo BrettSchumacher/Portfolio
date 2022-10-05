@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Resume
-image: assets/images/pic11.jpg
+image: null
 nav-menu: true
 ---
 
-Resume stuff goes here
+<object data="assets/pdfs/resume.pdf" width="1000" height="1000" type="application/pdf"></object>
