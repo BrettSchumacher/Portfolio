@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Publications
-image: assets/images/paper_banner.png
-description:
+image: assets/images/paper_banner.jpg
 nav-menu: true
 ---
 
