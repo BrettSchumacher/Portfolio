@@ -1,12 +1,12 @@
 ---
-title: "Projects and Experience"
+title: "Projects"
 layout: allposts
 description: "Take a look at the various projects I've been a part of"
-image: assets/images/pic07.jpg
+image: assets/images/projects.png
 nav-menu: true
 ---
 
-<h1> Projects and Experience </h1>
+<h1> Projects </h1>
 
 <!-- Main 
 <div id="main">

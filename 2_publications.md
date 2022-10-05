@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Resume
-image: assets/images/pic01.jpg
-description: "For a short summary of my top achievements"
+title: Publications
+image: assets/images/paper_banner.png
+description:
 nav-menu: true
 ---
 
