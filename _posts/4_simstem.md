@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sim-stem
-description: A planetary platformer
+title: "Sim-stem"
+description: "A planetary platformer"
 image: assets/images/pic01.jpg
 ---
 

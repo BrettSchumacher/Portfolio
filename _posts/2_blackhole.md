@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blackhole Raymarcher
-description: A custom shader made in ShaderToy
+title: "Blackhole Raymarcher"
+description: "A custom shader made in ShaderToy"
 image: assets/images/banner.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cozy Little Cosmos
-description: An Outer Wilds inspired exploration game
+title: "Cozy Little Cosmos"
+description: "An Outer Wilds inspired exploration game"
 image: assets/images/pic02.jpg
 ---
 
