@@ -6,4 +6,15 @@ image: assets/images/projects.jpg
 project: true
 ---
 
-Look at this cool thing I made.
+Check out the code on <a href="https://github.com/BrettSchumacher/Raytracer">github</a>.
+
+Made during Spring 2022 for CSCI 5607 Fundamentals of Computer Graphics 1. It supports the following features:
+<ul>
+    <li>Multithreading</li>
+    <li>Obj model loading</li>
+    <li>GlTF scene loading</li>
+    <li>Reflections/refactions</li>
+    <li>BVH (Bounding volume hierachy) construction for better performance</li>
+    <li>Normal maps</li>
+    <li>Soft shadows</li>
+</ul>
