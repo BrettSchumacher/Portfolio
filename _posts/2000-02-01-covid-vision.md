@@ -6,7 +6,7 @@ image: assets/images/paper_banner.jpg
 publication: true
 ---
 
-Read the paper <a href="https://ieeexplore.ieee.org/document/9419275">here</a>.
+Read the paper <a href="https://ieeexplore.ieee.org/document/9419275" target="_blank">here</a>.
 
 An accepted submission to the IEEEVR 3DUI 2021 Contest, I was a part of the submission from brainstorming through creating the final video and paper submissions. The project aimed to be a tool for helping people have better awareness when social distancing during the early days of the COVID-19 pandemic. My main contributions were:
 <ul>

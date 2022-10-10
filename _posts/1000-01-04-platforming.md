@@ -6,7 +6,7 @@ image: assets/images/platforming.jpg
 project: true
 ---
 
-Play it in browser on <a href="https://theshoes.itch.io/platforming-under-pressure"> ItchIo</a>.
+Play it in browser on <a href="https://theshoes.itch.io/platforming-under-pressure" target="_blank"> ItchIo</a>.
 
 Created as a final project for CSCI 5611 Animation and Planning in Games in Fall 2021. My contributions:
 <ul>

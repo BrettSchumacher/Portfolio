@@ -6,7 +6,7 @@ image: assets/images/projects.jpg
 project: true
 ---
 
-Check out the code on <a href="https://github.com/BrettSchumacher/Raytracer">github</a>.
+Check out the code on <a href="https://github.com/BrettSchumacher/Raytracer" target="_blank">github</a>.
 
 Made during Spring 2022 for CSCI 5607 Fundamentals of Computer Graphics 1. It supports the following features:
 <ul>
