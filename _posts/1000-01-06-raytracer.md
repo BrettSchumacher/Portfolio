@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Custom Raytracer"
+title: "C++ Raytracer"
 description: "A raytracer built for CSCI 5607 Fundamentals of Computer Graphics"
 image: assets/images/projects.jpg
 project: true
@@ -8,7 +8,7 @@ project: true
 
 Check out the code on <a href="https://github.com/BrettSchumacher/Raytracer" target="_blank">github</a>.
 
-Made during Spring 2022 for CSCI 5607 Fundamentals of Computer Graphics 1. It supports the following features:
+Coded entirely in C++ and made during Spring 2022 for CSCI 5607 Fundamentals of Computer Graphics 1. It supports the following features:
 <ul>
     <li>Multithreading</li>
     <li>Obj model loading</li>
